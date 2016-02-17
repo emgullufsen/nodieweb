@@ -1,0 +1,22 @@
+{
+  "name": "first",
+  "version": "0.0.0",
+  "description": "my webbie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emgullufsen/webbie.git"
+  },
+  "author": "E.M.G.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emgullufsen/webbie/issues"
+  },
+  "homepage": "https://github.com/emgullufsen/webbie#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
